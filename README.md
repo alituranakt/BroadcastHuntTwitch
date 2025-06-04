@@ -15,7 +15,7 @@ Python Script Geliştirme
 IP Adreslerinin ve Aralıklarının Belirlenmesi
 WHOIS Sorguları oluşturulması
 
-Fatma Yeliz Apaydın
+Fatma Yeliz Apaydın (fatmayeliz)
 
 Ham Trafik Yakalama
 Filtrelenmiş Trafik Oluşturma
