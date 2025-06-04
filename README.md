@@ -7,7 +7,7 @@ Klasör Düzeni Dosya Yönetimi ve Bağımlılık Listesi Oluşturma
 Yakalama Filtrelerinin Oluşturulması ve Geliştirilmesi
 Görüntüleme Filtrelerinin Oluşturulması ve Geliştirilmesi
 
-Burhan Yavaş
+Burhan Yavaş - Github (Gawgaci)
 
 Yakalama Filtrelerinin Oluşturulması ve Geliştirilmesi
 Görüntüleme Filtrelerinin Oluşturulması ve Geliştirilmesi
