@@ -1,0 +1,12 @@
+# Proje bağımlılıkları
+scapy==2.5.0  # Ağ paketi analizi için Scapy kütüphanesi (en son stabil sürüm)
+numpy==1.26.4  # Gerekirse veri işleme için (opsiyonel, eklemek isterseniz)
+pandas==2.2.2  # Gerekirse veri analizi için (opsiyonel, eklemek isterseniz)
+
+# Python sürümü önerisi
+# Python 3.13 kullanılmıştır, ancak uyumluluk için 3.10+ önerilir
+# Kullanıcılar için not: python>=3.10,<3.14
+
+# Npcap/WinPcap gereksinimi
+# Not: Npcap/WinPcap, Scapy'nin Windows'ta çalışması için sistem düzeyinde kurulmalıdır.
+# Kullanıcılar, https://npcap.com/ adresinden Npcap'i yüklemelidir.

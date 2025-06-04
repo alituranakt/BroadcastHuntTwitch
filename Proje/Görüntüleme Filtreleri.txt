@@ -1,0 +1,41 @@
+basit - tcp.port == 443
+
+
+
+gelişmiş - (ip.addr >= 108.156.0.0 && ip.addr <= 108.159.255.255) ||
+(ip.addr >= 52.0.0.0 && ip.addr <= 52.79.255.255) ||
+(ip.addr >= 16.168.0.0 && ip.addr <= 16.171.255.255) ||
+(ip.addr >= 3.128.0.0 && ip.addr <= 3.255.255.255) ||
+(ip.addr >= 3.0.0.0 && ip.addr <= 3.127.255.255) ||
+(ip.addr >= 54.64.0.0 && ip.addr <= 54.95.255.255) ||
+(ip.addr >= 44.192.0.0 && ip.addr <= 44.255.255.255) ||
+(ip.addr >= 35.152.0.0 && ip.addr <= 35.183.255.255) ||
+(ip.addr >= 52.84.0.0 && ip.addr <= 52.95.255.255) ||
+(ip.addr >= 13.60.0.0 && ip.addr <= 13.63.255.255) ||
+(ip.addr >= 13.24.0.0 && ip.addr <= 13.59.255.255) ||
+(ip.addr >= 18.32.0.0 && ip.addr <= 18.255.255.255)
+
+
+gelişmiş - dns.qry.name contains "twitch.tv" || tls.handshake.extensions_server_name contains "twitch.tv"
+
+
+Final - dns.qry.name contains "twitch.tv" ||
+tls.handshake.extensions_server_name contains "twitch.tv" ||
+(ip.addr >= 108.156.0.0 && ip.addr <= 108.159.255.255) ||
+(ip.addr >= 52.0.0.0 && ip.addr <= 52.79.255.255) ||
+(ip.addr >= 16.168.0.0 && ip.addr <= 16.171.255.255) ||
+(ip.addr >= 3.128.0.0 && ip.addr <= 3.255.255.255) ||
+(ip.addr >= 3.0.0.0 && ip.addr <= 3.127.255.255) ||
+(ip.addr >= 54.64.0.0 && ip.addr <= 54.95.255.255) ||
+(ip.addr >= 44.192.0.0 && ip.addr <= 44.255.255.255) ||
+(ip.addr >= 35.152.0.0 && ip.addr <= 35.183.255.255) ||
+(ip.addr >= 52.84.0.0 && ip.addr <= 52.95.255.255) ||
+(ip.addr >= 13.60.0.0 && ip.addr <= 13.63.255.255) ||
+(ip.addr >= 13.24.0.0 && ip.addr <= 13.59.255.255) ||
+(ip.addr >= 18.32.0.0 && ip.addr <= 18.255.255.255)
+
+
+
+
+
+

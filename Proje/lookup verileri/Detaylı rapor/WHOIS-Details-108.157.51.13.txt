@@ -1,0 +1,148 @@
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+
+# start
+
+NetRange:       108.156.0.0 - 108.159.255.255
+CIDR:           108.156.0.0/14
+NetName:        AMAZO-4
+NetHandle:      NET-108-156-0-0-1
+Parent:         NET108 (NET-108-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:
+Organization:   Amazon.com, Inc. (AMAZO-4)
+RegDate:        2020-12-11
+Updated:        2020-12-11
+Ref:            https://rdap.arin.net/registry/ip/108.156.0.0
+
+
+
+OrgName:        Amazon.com, Inc.
+OrgId:          AMAZO-4
+Address:        Amazon Web Services, Inc.
+Address:        P.O. Box 81226
+City:           Seattle
+StateProv:      WA
+PostalCode:     98108-1226
+Country:        US
+RegDate:        2005-09-29
+Updated:        2022-09-30
+Comment:        For details of this service please see
+Comment:        http://ec2.amazonaws.com
+Ref:            https://rdap.arin.net/registry/entity/AMAZO-4
+
+
+OrgAbuseHandle: AEA8-ARIN
+OrgAbuseName:   Amazon EC2 Abuse
+OrgAbusePhone:  +1-206-555-0000
+OrgAbuseEmail:  trustandsafety@support.aws.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/AEA8-ARIN
+
+OrgRoutingHandle: IPROU3-ARIN
+OrgRoutingName:   IP Routing
+OrgRoutingPhone:  +1-206-555-0000
+OrgRoutingEmail:  aws-routing-poc@amazon.com
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/IPROU3-ARIN
+
+OrgNOCHandle: AANO1-ARIN
+OrgNOCName:   Amazon AWS Network Operations
+OrgNOCPhone:  +1-206-555-0000
+OrgNOCEmail:  amzn-noc-contact@amazon.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/AANO1-ARIN
+
+OrgTechHandle: ANO24-ARIN
+OrgTechName:   Amazon EC2 Network Operations
+OrgTechPhone:  +1-206-555-0000
+OrgTechEmail:  amzn-noc-contact@amazon.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ANO24-ARIN
+
+OrgRoutingHandle: ARMP-ARIN
+OrgRoutingName:   AWS RPKI Management POC
+OrgRoutingPhone:  +1-206-555-0000
+OrgRoutingEmail:  aws-rpki-routing-poc@amazon.com
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ARMP-ARIN
+
+# end
+
+
+# start
+
+NetRange:       108.156.0.0 - 108.159.255.255
+CIDR:           108.156.0.0/14
+NetName:        AMAZON-CF
+NetHandle:      NET-108-156-0-0-2
+Parent:         AMAZO-4 (NET-108-156-0-0-1)
+NetType:        Reallocated
+OriginAS:
+Organization:   Amazon.com, Inc. (AMAZON-4)
+RegDate:        2021-05-03
+Updated:        2021-05-03
+Ref:            https://rdap.arin.net/registry/ip/108.156.0.0
+
+
+
+OrgName:        Amazon.com, Inc.
+OrgId:          AMAZON-4
+Address:        1918 8th Ave
+City:           SEATTLE
+StateProv:      WA
+PostalCode:     98101-1244
+Country:        US
+RegDate:        1995-01-23
+Updated:        2022-09-30
+Ref:            https://rdap.arin.net/registry/entity/AMAZON-4
+
+
+OrgRoutingHandle: IPROU3-ARIN
+OrgRoutingName:   IP Routing
+OrgRoutingPhone:  +1-206-555-0000
+OrgRoutingEmail:  aws-routing-poc@amazon.com
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/IPROU3-ARIN
+
+OrgAbuseHandle: AEA8-ARIN
+OrgAbuseName:   Amazon EC2 Abuse
+OrgAbusePhone:  +1-206-555-0000
+OrgAbuseEmail:  trustandsafety@support.aws.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/AEA8-ARIN
+
+OrgNOCHandle: AANO1-ARIN
+OrgNOCName:   Amazon AWS Network Operations
+OrgNOCPhone:  +1-206-555-0000
+OrgNOCEmail:  amzn-noc-contact@amazon.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/AANO1-ARIN
+
+OrgRoutingHandle: ARMP-ARIN
+OrgRoutingName:   AWS RPKI Management POC
+OrgRoutingPhone:  +1-206-555-0000
+OrgRoutingEmail:  aws-rpki-routing-poc@amazon.com
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/ARMP-ARIN
+
+OrgTechHandle: ANO24-ARIN
+OrgTechName:   Amazon EC2 Network Operations
+OrgTechPhone:  +1-206-555-0000
+OrgTechEmail:  amzn-noc-contact@amazon.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ANO24-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#

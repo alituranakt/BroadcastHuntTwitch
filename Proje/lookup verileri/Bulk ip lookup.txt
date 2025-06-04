@@ -1,0 +1,95 @@
+1	2.18.69.150	Austria	Vienna	Vienna	Akamai Technologies	Unknown	48.2049	16.3662
+2	2.19.126.140	Germany	Frankfurt am Main	Hesse	Akamai Technologies	Unknown	50.1169	8.6837
+3	2.19.126.145	Germany	Frankfurt am Main	Hesse	Akamai Technologies	Unknown	50.1169	8.6837
+4	2.19.198.67	Germany	Frankfurt am Main	Hesse	Akamai Technologies	Unknown	50.1169	8.6837
+5	2.23.154.89	Austria	Vienna	Vienna	Akamai Technologies	Unknown	48.2049	16.3662
+6	3.124.75.106	Germany	Frankfurt am Main	Hesse	Amazon Technologies Inc.	AWS EC2 (eu-central-1)	50.1109	8.68213
+7	3.160.150.25	Germany	Frankfurt am Main	Hesse	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	50.1109	8.68213
+8	3.161.119.57	Austria	Vienna	Vienna	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	48.2081	16.3713
+9	3.161.119.69	Austria	Vienna	Vienna	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	48.2081	16.3713
+10	3.171.214.115	Germany	Frankfurt am Main	Hesse	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	50.1109	8.68213
+11	3.171.214.119	Germany	Frankfurt am Main	Hesse	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	50.1109	8.68213
+12	13.32.110.120	Ireland	Dublin	Leinster	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	53.3498	-6.26031
+13	13.53.75.5	Sweden	Stockholm	Stockholm	Amazon Technologies Inc.	AWS EC2 (eu-north-1)	59.3293	18.0686
+14	13.62.33.49	Sweden	Stockholm	Stockholm	Amazon.com, Inc.	AWS EC2 (eu-north-1)	59.3293	18.0686
+15	13.74.129.1	Ireland	Dublin	Leinster	Microsoft Corporation	Microsoft Azure Cloud (northeurope)	53.3478	-6.2597
+16	18.89.178.26	United States	Ashburn	Virginia	Amazon Technologies Inc.	AWS EC2 (us-east-1)	39.0438	-77.4874
+17	18.66.102.39	Germany	Frankfurt am Main	Hesse	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	50.1109	8.68213
+18	18.66.138.30	Germany	Frankfurt am Main	Hesse	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	50.1109	8.68213
+19	18.66.147.28	Germany	Frankfurt am Main	Hesse	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	50.1109	8.68213
+20	18.172.114.29	Germany	Frankfurt am Main	Hesse	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	50.1109	8.68213
+21	18.172.114.89	Germany	Frankfurt am Main	Hesse	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	50.1109	8.68213
+22	18.172.242.94	Hungary	Budapest	Budapest	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	47.4979	19.0402
+23	18.172.242.99	Hungary	Budapest	Budapest	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	47.4979	19.0402
+24	18.173.205.62	Germany	Frankfurt am Main	Hesse	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	50.1109	8.68213
+25	18.239.18.23	The Netherlands	Amsterdam	North Holland	Amazon Technologies Inc.	AWS CloudFront (GLOBAL)	52.3676	4.90414
+26	18.239.50.116	The Netherlands	Amsterdam	North Holland	Amazon Technologies Inc.	AWS CloudFront (GLOBAL)	52.3676	4.90414
+27	18.239.83.126	The Netherlands	Amsterdam	North Holland	Amazon Technologies Inc.	AWS CloudFront (GLOBAL)	52.3676	4.90414
+28	18.239.255.66	Hungary	Budapest	Budapest	Amazon Technologies Inc.	AWS CloudFront (GLOBAL)	47.4979	19.0402
+29	20.189.173.15	United States	San Francisco	California	Microsoft Corporation	Microsoft Azure One Ds Collector (westus)	37.783	-122.417
+30	20.66.110.161	United States	San Francisco	California	Microsoft Corporation	Microsoft Azure Cloud (westus)	37.783	-122.417
+31	20.66.110.0	United States	San Francisco	California	Microsoft Corporation	Microsoft Azure Cloud (westus)	37.783	-122.417
+32	23.160.0.0	United States	San Francisco	California	Twitch Interactive Inc.	(GLOBAL)	37.7909	-122.402
+33	23.74.148.245	United States	Seattle	Washington	Akamai International B.V.	Akamai Technologies, Inc.	47.6061	-122.333
+34	35.163.204.107	United States	Portland	Oregon	Amazon.com, Inc.	AWS EC2 (us-west-2)	45.5235	-122.676
+35	35.181.235.77	France	Paris	Île-de-France	Amazon.com, Inc.	AWS EC2 (eu-west-3)	48.8566	2.35222
+36	44.195.140.242	United States	Ashburn	Virginia	Amazon.com	AWS EC2 (us-east-1)	39.0438	-77.4874
+37	44.215.141.23	United States	Ashburn	Virginia	Amazon.com	Amazon Technologies Inc. (us-east-1)	39.0438	-77.4874
+38	45.90.28.0	United States	Wilmington	Delaware	nextdns, Inc.	nextdns, Inc	39.7528	-75.5299
+39	45.90.30.0	United States	Sunnyvale	California	nextdns, Inc.	nextdns, Inc	37.3481	-122.019
+40	51.20.194.111	Sweden	Stockholm	Stockholm	Amazon.com, Inc.	AWS EC2 (eu-north-1)	59.3293	18.0686
+41	52.10.169.165	United States	Portland	Oregon	Amazon.com, Inc.	AWS EC2 (us-west-2)	45.5235	-122.676
+42	52.18.116.111	Ireland	Dublin	Leinster	Amazon Technologies Inc.	AWS EC2 (eu-west-1)	53.3498	-6.26031
+43	52.84.234.25	United States	Los Angeles	California	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	34.0549	-118.243
+44	52.86.201.7	United States	Ashburn	Virginia	Amazon.com, Inc.	AWS EC2 (us-east-1)	39.0438	-77.4874
+45	52.88.180.215	United States	Portland	Oregon	Amazon.com, Inc.	AWS EC2 (us-west-2)	45.5235	-122.676
+46	52.97.174.2	Austria	Vienna	Vienna	Microsoft Corporation	Microsoft Corporation	48.2081	16.3738
+47	52.98.178.146	France	Paris	Île-de-France	Microsoft Corporation	Microsoft Corporation	48.8566	2.3522
+48	52.211.254.209	Ireland	Dublin	Leinster	Amazon.com, Inc.	AWS EC2 (eu-west-1)	53.3498	-6.26031
+49	52.213.28.228	Ireland	Dublin	Leinster	Amazon.com, Inc.	AWS EC2 (eu-west-1)	53.3498	-6.26031
+50	52.218.237.139	United States	Portland	Oregon	Amazon.com, Inc.	AWS S3 (us-west-2)	45.5235	-122.676
+51	52.222.214.13	Germany	Frankfurt am Main	Hesse	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	50.1109	8.68213
+52	52.222.214.19	Germany	Frankfurt am Main	Hesse	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	50.1109	8.68213
+53	52.222.236.125	Germany	Frankfurt am Main	Hesse	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	50.1109	8.68213
+54	52.223.203.136	The Netherlands	Amsterdam	North Holland	Twitch Interactive Inc.	(GLOBAL)	52.2936	4.94539
+55	54.69.113.251	United States	Portland	Oregon	Amazon.com, Inc.	AWS EC2 (us-west-2)	45.5235	-122.676
+56	54.68.93.232	United States	Portland	Oregon	Amazon.com, Inc.	AWS EC2 (us-west-2)	45.5235	-122.676
+57	54.69.113.251	United States	Portland	Oregon	Amazon.com, Inc.	AWS EC2 (us-west-2)	45.5235	-122.676
+58	54.73.99.117	Ireland	Dublin	Leinster	Amazon.com, Inc.	AWS EC2 (eu-west-1)	53.3498	-6.26031
+59	54.93.145.142	Germany	Frankfurt am Main	Hesse	Amazon Technologies Inc.	AWS EC2 (eu-central-1)	50.1109	8.68213
+60	72.144.120.145	Germany	Frankfurt am Main	Hesse	BellSouth.net Inc.	Microsoft Azure Cloud (germanywestcentral)	50.110924	8.682127
+61	99.86.4.16	Germany	Frankfurt am Main	Hesse	Amazon.com, Inc.	AWS CloudFront (GLOBAL)	50.1109	8.68213
+62	99.181.64.176	The Netherlands	Amsterdam	North Holland	Twitch Interactive Inc.	(GLOBAL)	52.2936	4.94539
+63	99.181.64.220	The Netherlands	Amsterdam	North Holland	Twitch Interactive Inc.	(GLOBAL)	52.2936	4.94539
+64	99.181.65.18	The Netherlands	Amsterdam	North Holland	Twitch Interactive Inc.	(GLOBAL)	52.2936	4.94539
+65	99.181.65.105	The Netherlands	Amsterdam	North Holland	Twitch Interactive Inc.	(GLOBAL)	52.2936	4.94539
+66	99.181.66.91	The Netherlands	Amsterdam	North Holland	Twitch Interactive Inc.	(GLOBAL)	52.2936	4.94539
+67	99.181.66.144	The Netherlands	Amsterdam	North Holland	Twitch Interactive Inc.	(GLOBAL)	52.2936	4.94539
+68	104.16.133.27	Canada	Toronto	Ontario	Cloudflare, Inc.	Cloudflare, Inc.	43.6532	-79.3832
+69	104.18.43.204	Canada	Toronto	Ontario	Cloudflare, Inc.	Cloudflare, Inc.	43.6532	-79.3832
+70	104.26.13.95	Canada	Toronto	Ontario	Cloudflare, Inc.	Cloudflare, Inc.	43.6532	-79.3832
+71	104.26.25.31	United States	Buffalo	New York	Cloudflare, Inc.	Cloudflare, Inc.	42.8864	-78.8784
+72	104.26.6.138	Canada	Toronto	Ontario	Cloudflare, Inc.	Cloudflare, Inc.	43.6532	-79.3832
+73	116.202.242.31	Germany	Falkenstein	Saxony	Hetzner Online GmbH	Hetzner Online GmbH	50.4777	12.3649
+74	142.250.187.99	Bulgaria	Sofia	Sofia-Capital	Google LLC	Google LLC	42.6977	23.3219
+75	145.75.20.14	The Netherlands	Schiphol-Rijk	North Holland	Hnym Hshaarlem	Unknown	52.2759	4.75188
+76	150.171.27.10	Canada	Montreal	Quebec	Microsoft Corporation	Microsoft Corporation	45.5019	-73.5674
+77	150.171.27.11	Canada	Montreal	Quebec	Microsoft Corporation	Microsoft Corporation	45.5019	-73.5674
+78	150.171.28.11	Canada	Montreal	Quebec	Microsoft Corporation	Microsoft Corporation	45.5019	-73.5674
+79	172.64.150.28	Canada	Toronto	Ontario	Cloudflare, Inc.	Cloudflare, Inc.	43.6532	-79.3832
+80	172.64.150.28	Canada	Toronto	Ontario	Cloudflare, Inc.	Cloudflare, Inc.	43.6532	-79.3832
+81	172.64.155.209	Canada	Toronto	Ontario	Cloudflare, Inc.	Cloudflare, Inc.	43.6532	-79.3832
+82	172.67.70.100	Canada	Toronto	Ontario	Cloudflare, Inc.	Cloudflare, Inc.	43.6532	-79.3832
+83	172.67.146.234	Canada	Toronto	Ontario	Cloudflare, Inc.	Cloudflare, Inc.	43.6532	-79.3832
+84	172.161.47.103	Switzerland	Zurich	Zurich	Microsoft	Microsoft Azure Cloud (switzerlandnorth)	47.37204	8.54094
+85	172.217.17.106	Bulgaria	Sofia	Sofia-Capital	Google LLC	Google LLC	42.6977	23.3219
+86	192.168.1.1	private range						
+87	192.168.1.102	private range						
+88	192.168.1.103	private range						
+89	192.168.1.105	private range						
+90	199.232.18.167	Austria	Vienna	Vienna	Fastly, Inc.	Fastly, Inc.	48.2049	16.3662
+91	204.79.197.203	Canada	Montreal	Quebec	Microsoft Corporation	Microsoft Corporation	45.5019	-73.5674
+92	224.0.0.1	reserved range						
+93	224.0.0.251	reserved range						
+94	239.255.255.250	reserved range						
+95	255.255.255.255	reserved range						

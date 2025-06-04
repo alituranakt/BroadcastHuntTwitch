@@ -1,0 +1,1 @@
+Bu capture python scriptini hazırlarken kullanıldı. IP tespitleri, görüntüleme ve yakalama filtreleri burada test edildi, kullanıldı.

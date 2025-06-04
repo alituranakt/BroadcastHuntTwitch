@@ -1,0 +1,14 @@
+basit - tcp port 443
+
+
+gelişmiş - tcp port 443 and (net 3.0.0.0 mask 255.0.0.0 or net 13.0.0.0 mask 255.0.0.0 or net 52.0.0.0 mask 255.0.0.0)
+
+
+final (Filteler teker teker uygulanmalı)
+(
+  net 108.156.0.0 mask 255.252.0.0   net 52.0.0.0 mask 255.240.0.0   net 16.168.0.0 mask 255.252.0.0   net 3.128.0.0 mask 255.128.0.0   net 3.0.0.0 mask 255.128.0.0   net 54.64.0.0 mask 255.224.0.0   net 44.192.0.0 mask 255.192.0.0   net 35.152.0.0 mask 255.224.0.0   net 52.84.0.0 mask 255.240.0.0   net 13.60.0.0 mask 255.252.0.0   net 13.24.0.0 mask 255.240.0.0   net 18.32.0.0 mask 255.224.0.0
+)
+
+
+
+
