@@ -23,3 +23,6 @@ IP Adreslerinin Toplanması
 IP Adreslerinin Belirlenmesi
 Klasör Düzeni Dosya Yönetimi ve Bağımlılık Listesi Oluşturma
 Ek Notların Derlenmesi
+
+
+- Diğer bilgiler proje klasörünün içinde ki Sunu.docx içerisinde yer alıyor.
