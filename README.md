@@ -26,6 +26,15 @@ Ek Notların Derlenmesi
 
 
 - Diğer bilgiler proje klasörünün içinde ki Sunu.docx içerisinde yer alıyor. Deepsearch analizi aşağıda bulunuyor.
+
+
+
+
+
+
+
+
+
 2025 Yılı İçin Wireshark ve Python Otomasyonu ile Ağda Yayıncıların Tespiti: En Yenilikçi 10 Teknik/Trend
 
 Başlık: Makine Öğrenimi ile Yayıncıların Ağ Trafiği Örüntülerinin Tespiti
